@@ -8,8 +8,7 @@ Each project demonstrates my ability to analyze a product, communicate its value
 
 | No. | Product | Status |
 |-----|---------|--------|
-| 01 | ChatGPT Enterprise | ⏳ In Progress |
-| 02 | Apple iPhone 16 Pro | ⏳ Pending |
+| 01 | ChatGPT Enterprise
+| 02 | Apple iPhone 16 Pro
 | 03 | Tesla Model 3 | ⏳ Pending |
 | 04 | Notion AI | ⏳ Pending |
-| 05 | Sony WH-1000XM6 | ⏳ Pending |
